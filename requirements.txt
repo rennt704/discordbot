@@ -1,5 +1,4 @@
 aiohttp==3.6.3
-apt-clone==0.2.1
 apturl==0.5.2
 astroid==2.4.2
 async-timeout==3.0.1
